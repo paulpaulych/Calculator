@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="Calculator"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/home/paulpaulych/CLionProjects/Calculator/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/paulpaulych/CLionProjects/Calculator/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/paulpaulych/CLionProjects/Calculator/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/paulpaulych/CLionProjects/Calculator/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/paulpaulych/CLionProjects/Calculator/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/home/paulpaulych/CLionProjects/Calculator/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/paulpaulych/CLionProjects/Calculator/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/paulpaulych/CLionProjects/Calculator/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/paulpaulych/CLionProjects/Calculator/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/paulpaulych/CLionProjects/Calculator/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/home/paulpaulych/CLionProjects/Calculator/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/paulpaulych/CLionProjects/Calculator/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/paulpaulych/CLionProjects/Calculator/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/paulpaulych/CLionProjects/Calculator/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/paulpaulych/CLionProjects/Calculator/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Calculator">
+				<Option output="/home/paulpaulych/CLionProjects/Calculator/cmake-build-debug/Calculator" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/paulpaulych/CLionProjects/Calculator/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/7"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
+					<Add directory="/usr/include/c++/7/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/paulpaulych/CLionProjects/Calculator/cmake-build-debug/Makefile&quot;  VERBOSE=1 Calculator"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/paulpaulych/CLionProjects/Calculator/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/paulpaulych/CLionProjects/Calculator/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/paulpaulych/CLionProjects/Calculator/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Calculator/fast">
+				<Option output="/home/paulpaulych/CLionProjects/Calculator/cmake-build-debug/Calculator" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/paulpaulych/CLionProjects/Calculator/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/7"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
+					<Add directory="/usr/include/c++/7/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/paulpaulych/CLionProjects/Calculator/cmake-build-debug/Makefile&quot;  VERBOSE=1 Calculator/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/paulpaulych/CLionProjects/Calculator/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/paulpaulych/CLionProjects/Calculator/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/paulpaulych/CLionProjects/Calculator/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/home/paulpaulych/CLionProjects/Calculator/Calculator.cpp">
+			<Option target="Calculator"/>
+		</Unit>
+		<Unit filename="/home/paulpaulych/CLionProjects/Calculator/Calculator.h">
+			<Option target="Calculator"/>
+		</Unit>
+		<Unit filename="/home/paulpaulych/CLionProjects/Calculator/Command.h">
+			<Option target="Calculator"/>
+		</Unit>
+		<Unit filename="/home/paulpaulych/CLionProjects/Calculator/CommandCreator.h">
+			<Option target="Calculator"/>
+		</Unit>
+		<Unit filename="/home/paulpaulych/CLionProjects/Calculator/CommandFactory.cpp">
+			<Option target="Calculator"/>
+		</Unit>
+		<Unit filename="/home/paulpaulych/CLionProjects/Calculator/CommandFactory.h">
+			<Option target="Calculator"/>
+		</Unit>
+		<Unit filename="/home/paulpaulych/CLionProjects/Calculator/Context.cpp">
+			<Option target="Calculator"/>
+		</Unit>
+		<Unit filename="/home/paulpaulych/CLionProjects/Calculator/Context.h">
+			<Option target="Calculator"/>
+		</Unit>
+		<Unit filename="/home/paulpaulych/CLionProjects/Calculator/ICommandCreator.h">
+			<Option target="Calculator"/>
+		</Unit>
+		<Unit filename="/home/paulpaulych/CLionProjects/Calculator/MyException.h">
+			<Option target="Calculator"/>
+		</Unit>
+		<Unit filename="/home/paulpaulych/CLionProjects/Calculator/Parcer.cpp">
+			<Option target="Calculator"/>
+		</Unit>
+		<Unit filename="/home/paulpaulych/CLionProjects/Calculator/Parcer.h">
+			<Option target="Calculator"/>
+		</Unit>
+		<Unit filename="/home/paulpaulych/CLionProjects/Calculator/command/CommandAdd.cpp">
+			<Option target="Calculator"/>
+		</Unit>
+		<Unit filename="/home/paulpaulych/CLionProjects/Calculator/command/CommandAdd.h">
+			<Option target="Calculator"/>
+		</Unit>
+		<Unit filename="/home/paulpaulych/CLionProjects/Calculator/command/CommandDefine.cpp">
+			<Option target="Calculator"/>
+		</Unit>
+		<Unit filename="/home/paulpaulych/CLionProjects/Calculator/command/CommandDefine.h">
+			<Option target="Calculator"/>
+		</Unit>
+		<Unit filename="/home/paulpaulych/CLionProjects/Calculator/command/CommandDiv.cpp">
+			<Option target="Calculator"/>
+		</Unit>
+		<Unit filename="/home/paulpaulych/CLionProjects/Calculator/command/CommandDiv.h">
+			<Option target="Calculator"/>
+		</Unit>
+		<Unit filename="/home/paulpaulych/CLionProjects/Calculator/command/CommandMul.cpp">
+			<Option target="Calculator"/>
+		</Unit>
+		<Unit filename="/home/paulpaulych/CLionProjects/Calculator/command/CommandMul.h">
+			<Option target="Calculator"/>
+		</Unit>
+		<Unit filename="/home/paulpaulych/CLionProjects/Calculator/command/CommandNeg.cpp">
+			<Option target="Calculator"/>
+		</Unit>
+		<Unit filename="/home/paulpaulych/CLionProjects/Calculator/command/CommandNeg.h">
+			<Option target="Calculator"/>
+		</Unit>
+		<Unit filename="/home/paulpaulych/CLionProjects/Calculator/command/CommandPop.cpp">
+			<Option target="Calculator"/>
+		</Unit>
+		<Unit filename="/home/paulpaulych/CLionProjects/Calculator/command/CommandPop.h">
+			<Option target="Calculator"/>
+		</Unit>
+		<Unit filename="/home/paulpaulych/CLionProjects/Calculator/command/CommandPrint.cpp">
+			<Option target="Calculator"/>
+		</Unit>
+		<Unit filename="/home/paulpaulych/CLionProjects/Calculator/command/CommandPrint.h">
+			<Option target="Calculator"/>
+		</Unit>
+		<Unit filename="/home/paulpaulych/CLionProjects/Calculator/command/CommandPush.cpp">
+			<Option target="Calculator"/>
+		</Unit>
+		<Unit filename="/home/paulpaulych/CLionProjects/Calculator/command/CommandPush.h">
+			<Option target="Calculator"/>
+		</Unit>
+		<Unit filename="/home/paulpaulych/CLionProjects/Calculator/command/CommandSqrt.cpp">
+			<Option target="Calculator"/>
+		</Unit>
+		<Unit filename="/home/paulpaulych/CLionProjects/Calculator/command/CommandSqrt.h">
+			<Option target="Calculator"/>
+		</Unit>
+		<Unit filename="/home/paulpaulych/CLionProjects/Calculator/command/CommandSub.cpp">
+			<Option target="Calculator"/>
+		</Unit>
+		<Unit filename="/home/paulpaulych/CLionProjects/Calculator/command/CommandSub.h">
+			<Option target="Calculator"/>
+		</Unit>
+		<Unit filename="/home/paulpaulych/CLionProjects/Calculator/command/pch.h">
+			<Option target="Calculator"/>
+		</Unit>
+		<Unit filename="/home/paulpaulych/CLionProjects/Calculator/main.cpp">
+			<Option target="Calculator"/>
+		</Unit>
+		<Unit filename="/home/paulpaulych/CLionProjects/Calculator/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>
